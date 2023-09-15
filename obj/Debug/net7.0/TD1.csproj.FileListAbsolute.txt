@@ -1,0 +1,14 @@
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\bin\Debug\net7.0\TD1.exe
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\bin\Debug\net7.0\TD1.deps.json
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\bin\Debug\net7.0\TD1.runtimeconfig.json
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\bin\Debug\net7.0\TD1.dll
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\bin\Debug\net7.0\TD1.pdb
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\TD1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\TD1.AssemblyInfoInputs.cache
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\TD1.AssemblyInfo.cs
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\TD1.csproj.CoreCompileInputs.cache
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\TD1.dll
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\refint\TD1.dll
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\TD1.pdb
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\TD1.genruntimeconfig.cache
+c:\Users\arnau\OneDrive - De Vinci\ESILV\Semestre 7\Software Engineering\TD 1\TD1\obj\Debug\net7.0\ref\TD1.dll
